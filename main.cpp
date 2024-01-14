@@ -134,7 +134,7 @@
         if (result == 0) {
             std::cout << "Modem wurde erfolgreich gestartet." << std::endl;
         } else {
-            std::cerr << "Fehler beim Starten von Modem." << std::endl;
+            std::cerr << "Error starting Modem" << std::endl;
         }
 
 
