@@ -1,0 +1,3 @@
+IPAdresse=192.168.1.111
+FrequenzMHz=649
+Multicast=232.1.1.111:40001
